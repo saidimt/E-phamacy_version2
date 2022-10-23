@@ -1,0 +1,33 @@
+-----------------E-Pharmacy Management System---------------------
+
+--Project Launching Steps--
+1. Install XAMPP on your Machine.
+   You can download XAMPP through https://www.apachefriends.org/download.html
+2. Install your favourite Browser on your machine
+3. Copy your project folder `E-Pharmacy` to xampp\htdocs\ .
+3. Launch Xampp and start Apache and mysql database engine.
+4. Go to localhost/phpMyAdmin and navigate to databases list
+5. Create new Database named `pharmacy`
+6. Go to import section and import database file `pharmacy.sql` which is right inside of your project folder.
+7. Type the url `localhost/E-Pharmacy/` to launch project in your browser.
+
+---UserName and Passwords---
+ 1 --Owner--
+   Username: Khalisa
+   Password: khalisa123
+
+ 2 --Admin--
+   Username: Admin
+   Password: admin123
+
+ 3 --Pharmacist--
+   Username: David
+   Password: david123
+
+ 4 --Cashier--
+   Username: Halima
+   Password: halima123
+
+8. Enjoy Navigating through the funtionalities of the world-class typical pharmacy project.
+
+
